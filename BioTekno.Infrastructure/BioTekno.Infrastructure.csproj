@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Services\Redis\" />
+    <None Remove="Services\RabbitMQ\" />
+    <None Remove="Services\MailSender\" />
+    <None Remove="Services\Logger\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Services\Redis\" />
+    <Folder Include="Services\RabbitMQ\" />
+    <Folder Include="Services\MailSender\" />
+    <Folder Include="Services\Logger\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="StackExchange.Redis" Version="2.8.24" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.4.0" />
+    <PackageReference Include="Serilog" Version="4.2.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="6.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
+    <PackageReference Include="MailKit" Version="4.10.0" />
+    <PackageReference Include="MimeKit" Version="4.10.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BioTekno.Domain\BioTekno.Domain.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Dtos\" />
+    <None Remove="Features\" />
+    <None Remove="Features\Products\" />
+    <None Remove="Features\Products\Queries\" />
+    <None Remove="Features\Orders\" />
+    <None Remove="Features\Orders\Commands\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Mappings\" />
+    <None Remove="Interfaces\Generic\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Features\" />
+    <Folder Include="Features\Products\" />
+    <Folder Include="Features\Products\Queries\" />
+    <Folder Include="Features\Orders\" />
+    <Folder Include="Features\Orders\Commands\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Interfaces\Generic\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BioTekno.Domain\BioTekno.Domain.csproj" />
+    <ProjectReference Include="..\BioTekno.Infrastructure\BioTekno.Infrastructure.csproj" />
+  </ItemGroup>
+<ItemGroup>
+    <PackageReference Include="MediatR" Version="12.0.1" />
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="6.0.0" />
+</ItemGroup>
+
+
+</Project>

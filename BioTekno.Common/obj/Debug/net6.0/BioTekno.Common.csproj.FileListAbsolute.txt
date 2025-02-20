@@ -1,0 +1,12 @@
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/bin/Debug/net6.0/BioTekno.Common.deps.json
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/bin/Debug/net6.0/BioTekno.Common.dll
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/bin/Debug/net6.0/BioTekno.Common.pdb
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/BioTekno.Common.csproj.AssemblyReference.cache
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/BioTekno.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/BioTekno.Common.AssemblyInfoInputs.cache
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/BioTekno.Common.AssemblyInfo.cs
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/BioTekno.Common.csproj.CoreCompileInputs.cache
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/BioTekno.Common.dll
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/refint/BioTekno.Common.dll
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/BioTekno.Common.pdb
+/Users/can/Projects/BioTeknoCase/BioTekno.Common/obj/Debug/net6.0/ref/BioTekno.Common.dll

@@ -1,0 +1,31 @@
+2025-02-20 20:41:16.070 +03:00 [INF] [CreateOrderCommandHandler] 2 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:45:06.836 +03:00 [ERR] [CreateOrderCommandHandler] Cannot add or update a child row: a foreign key constraint fails (`biotekno`.`OrderDetails`, CONSTRAINT `FK_OrderDetails_Products_ProductId` FOREIGN KEY (`ProductId`) REFERENCES `Products` (`Id`) ON DELETE CASCADE)
+2025-02-20 21:45:11.438 +03:00 [INF] [CreateOrderCommandHandler] 4 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:45:50.820 +03:00 [INF] [CreateOrderCommandHandler] 5 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:48:52.913 +03:00 [ERR] [CreateOrderCommandHandler] Data too long for column 'CustomerGSM' at row 1
+2025-02-20 21:49:13.595 +03:00 [INF] [CreateOrderCommandHandler] 6 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:50:36.367 +03:00 [INF] [CreateOrderCommandHandler] 7 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:52:10.183 +03:00 [INF] [CreateOrderCommandHandler] 8 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:52:27.941 +03:00 [INF] [CreateOrderCommandHandler] 9 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:53:26.065 +03:00 [INF] [CreateOrderCommandHandler] 10 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:53:52.922 +03:00 [INF] [CreateOrderCommandHandler] 11 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 21:54:17.903 +03:00 [INF] [CreateOrderCommandHandler] 12 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:00:23.968 +03:00 [INF] [CreateOrderCommandHandler] 13 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:01:11.907 +03:00 [INF] [CreateOrderCommandHandler] 14 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:07:15.918 +03:00 [INF] [CreateOrderCommandHandler] 15 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:08:25.991 +03:00 [INF] [CreateOrderCommandHandler] 16 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:36:50.798 +03:00 [INF] [CreateOrderCommandHandler] 17 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:38:57.687 +03:00 [INF] [CreateOrderCommandHandler] 18 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:40:39.900 +03:00 [INF] [CreateOrderCommandHandler] 19 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:41:53.873 +03:00 [INF] [CreateOrderCommandHandler] 20 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 22:43:06.907 +03:00 [INF] [CreateOrderCommandHandler] 21 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:36:15.483 +03:00 [INF] [CreateOrderCommandHandler] 22 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:41:43.124 +03:00 [INF] [CreateOrderCommandHandler] 23 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:09.945 +03:00 [INF] [CreateOrderCommandHandler] 24 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:11.000 +03:00 [INF] [CreateOrderCommandHandler] 25 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:11.957 +03:00 [INF] [CreateOrderCommandHandler] 26 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:12.902 +03:00 [INF] [CreateOrderCommandHandler] 27 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:13.768 +03:00 [INF] [CreateOrderCommandHandler] 28 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:14.590 +03:00 [INF] [CreateOrderCommandHandler] 29 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:15.450 +03:00 [INF] [CreateOrderCommandHandler] 30 numaralı sipariş kayıdı oluşturuldu
+2025-02-20 23:42:16.690 +03:00 [INF] [CreateOrderCommandHandler] 31 numaralı sipariş kayıdı oluşturuldu
