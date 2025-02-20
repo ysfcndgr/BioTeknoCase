@@ -9,7 +9,7 @@ Proje, temiz mimari prensipleri, modüler yapı ve kapsamlı test altyapısıyla
 - **Veritabanı Desteği:** Entity Framework Core kullanılarak MySQL ile uyumlu çalışır.
 - **Test Entegrasyonu:** Birim ve entegrasyon testleri sayesinde yüksek güvenilirlik sağlanır.
 - **[Diğer Özellikler]:** Onion Arhitecture, MediaTR, CQRS kullanılmıştır.
-- **[Diğer Teknolojiler]:** Örneğin, MediatR, AutoMapper, Swagger, Serilog, MySQL, RabbitMQ, Redis
+- **[Diğer Teknolojiler]:** MediatR, AutoMapper, Swagger, Serilog, MySQL, RabbitMQ, Redis
 
 ## Kurulum
 
